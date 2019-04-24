@@ -11,7 +11,6 @@ npm run start
 ```
 
 ## Queries
-Scroll to the end for complete queries and mutatuions list
 ### Get all listings
 
 ```
