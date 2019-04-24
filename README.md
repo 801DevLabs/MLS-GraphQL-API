@@ -12,179 +12,231 @@ npm run start
 
 ## Queries
 Scroll to the end for complete queries and mutatuions list
-### Get all apartments
+### Get all listings
 
 ```
-query getApartments {
-  apartments {
+query getListings {
+  listings {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 ```
 
-### Get all apartments in Orem
+### Get all listings in Orem
 
 ```
-query getApartmentsOrem {
-  apartments(where: {
-    city: "Orem"
+query getListingsOrem {
+  listings (where: {
+    city: "orem"
   }) {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 ```
 
-### Get one apartment
+### Get one listing
 
 ```
-query getApartmentById {
-  apartments(where: {
-    id: "cjtyj55ka009x0874nanhe1qn"
+query getOneListing {
+  listings (where: {
+    id: "cjuvkcfwz007v0870pridmgat"
   }) {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 ```
 
 ## Mutations
 
-### Create a new apartment
+### Create a new listing
 
 ```
-mutation addApartment {
-  createApartment(data: {
-    name: "Concord at Geneva"
-    city: "Vineyard"
-    address: "125 Mill Rd"
-    phone: "385-203-1000"
+mutation addListing {
+  createListing(data: {
+    address: "asdf"
+    image: "asdf"
+    city: "asdf"
+    state: "asdf"
+    style: "asdf"
+    on_market: false
   })
   {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 ```
 
-### Update an apartment
+### Update a listing
 
 ```
-mutation updateApartment {
-  updateApartment(
+mutation updateListing {
+  updateListing(
     data: {
       city: "Provo"
     }
     where: {
-      id: "cju1bxcww002y0737ycgsey2o"
+      id: "cjule7323005s0942998ut235"
     }
   ) {
     id
-    name
+    address
+    image
     city
+    state
+    style
+    on_market
   }
 }
 ```
 
-### Delete an apartment
+### Delete a listing
 
 ```
-mutation deleteApartment {
-  deleteApartment(where:{
-    id: "cju1c0xje00460737zg07g9te"
+mutation deleteListing {
+  deleteListing(where:{
+    id: "cjuvkesra00ai0870rfx470hr"
   }) {
     id
-    name
+    address
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 ```
 
 ## Quick access to all queries and mutations
 ```
-query getApartments {
-  apartments {
+query getListings {
+  listings {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 
-query getApartmentsOrem {
-  apartments(where: {
-    city: "Orem"
+query getListingsOrem {
+  listings (where: {
+    city: "orem"
   }) {
-	  id
-    name
-    city
+    id
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 
-query getApartmentById {
-  apartments(where: {
-    id: "cju1cvvav00410749szyo26ch"
+query getListingsUtah {
+  listings (where: {
+    state: "utah"
   }) {
-	  id
-    name
-    city
+    id
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 
-mutation addApartment {
-  createApartment(data: {
-    name: "Concord at Geneva"
-    city: "Vineyard"
-    address: "125 Mill Rd"
-    phone: "385-203-1000"
+query getOneListing {
+  listings (where: {
+    id: "cjuvkcfwz007v0870pridmgat"
+  }) {
+    id
+    address
+    image
+    city
+    state
+    style
+    on_market
+  }
+}
+
+mutation addListing {
+  createListing(data: {
+    address: "asdf"
+    image: "asdf"
+    city: "asdf"
+    state: "asdf"
+    style: "asdf"
+    on_market: false
   })
   {
     id
-    name
-    city
     address
-    phone
+    image
+    city
+    state
+    style
+    on_market
   }
 }
 
-mutation updateApartment {
-  updateApartment(
+mutation updateListing {
+  updateListing(
     data: {
       city: "Provo"
     }
     where: {
-      id: "cju1cvvav00410749szyo26ch"
+      id: "cjule7323005s0942998ut235"
     }
   ) {
     id
-    name
+    address
+    image
     city
+    state
+    style
+    on_market
   }
 }
 
-mutation deleteApartment {
-  deleteApartment(where:{
-    id: "cju1cvvav00410749szyo26ch"
+mutation deleteListing {
+  deleteListing(where:{
+    id: "cjuvkesra00ai0870rfx470hr"
   }) {
     id
-    name
+    address
+    image
+    city
+    state
+    style
+    on_market
   }
 }
-```# MLS-GraphQL-API
+```
