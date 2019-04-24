@@ -1,4 +1,4 @@
-## Setup
+## Setup - Scroll to the bottom to copy and past all queries and mutations into prisma playground
 
 ### Run the following commands on setup
 
