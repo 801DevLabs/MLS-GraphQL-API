@@ -1,0 +1,202 @@
+[
+  {
+  "address": "302 S Sunset Dr",
+  "city": "vineyard",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://static1.squarespace.com/static/5ae51f963e2d092d0e03db44/5ae524aa0e2e72dfd9f4cd92/5b86b8372b6a28c0c1d2140e/1535578646336/302+S+Sunset+Dr%2C+Vinyard+-+Aerials+-+Ashley+Jensen-1.jpg?format=1000w"
+  },
+  {
+  "address": "88 S Sunset Dr",
+  "city": "vineyard",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://assets.utahrealestate.com/photos/640x480/1466169_9043d7202aa15eec5b17f1b2d39dc2e7_3168655.jpg"
+  },
+  {
+  "address": "259 S Sunset Dr",
+  "city": "vineyard",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://wdcimagestorageprodeast.blob.core.windows.net/mls142/Web/1337323.jpg"
+  },
+  {
+  "address": "187 E Zinfandel Dr",
+  "city": "vineyard",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://images.estately.net/123_1586475_0_1552667678_636x435.jpg"
+  },
+  {
+  "address": "149 S Quivira Ln",
+  "city": "vineyard",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://pi.movoto.com/p/511/1488934_0_rrVAmz_p.jpeg"
+  },
+  {
+  "address": "122 E Lake View Dr",
+  "city": "orem",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_h/ISmqmpaxl0ezic1000000000.jpg"
+  },
+  {
+  "address": "37 W 2170 S",
+  "city": "orem",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://assets.utahrealestate.com/photos/640x480/1449122_bb8b08d9a4a843212124351326389486_294263.jpg"
+  },
+  {
+  "address": "2105 S 140 W",
+  "city": "orem",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://assets.utahrealestate.com/photos/640x480/1538535_15ffbdc7c71a0d10cdeda4df2b9cacfa_1757485.jpg"
+  },
+  {
+  "address": "101 W 2030 S",
+  "city": "orem",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_f/ISybbs1xtzbytf0000000000.jpg"
+  },
+  {
+  "address": "138 W 2070 S",
+  "city": "orem",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_h/ISus50ww4i2s7x0000000000.jpg"
+  },
+  {
+  "address": "4258 Stonecrossing",
+  "city": "provo",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_f/IS1f097vtec7430000000000.jpg"
+  },
+  {
+  "address": "4275 Stonecrossing",
+  "city": "provo",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_h/ISptz4nu0rj9xd1000000000.jpg"
+  },
+  {
+  "address": "4277 Stone Creek Ln",
+  "city": "provo",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_f/IS6qvrobkt52we1000000000.jpg"
+  },
+  {
+  "address": "392 Stone Brook Ln",
+  "city": "provo",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_f/ISijmpni8r3z7m0000000000.jpg"
+  },
+  {
+  "address": "223 Stone Brooke Ln",
+  "city": "provo",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://thumbs.trulia-cdn.com/pictures/thumbs_6/zillowstatic/ISu8q6byw684bt1000000000.jpg"
+  },
+  {
+  "address": "1558 N Harvard Ave",
+  "city": "washington",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/cc_ft_576/ISaxz2jaww2ej40000000000.jpg"
+  },
+  {
+  "address": "1038 N Daybreak Dr",
+  "city": "washington",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://ap.rdcpix.com/885206973/d22d44c91ed1104bdffb0534e2d23324l-m0xd-w1020_h770_q80.jpg"
+  },
+  {
+  "address": "359 N Westgate Hills Dr",
+  "city": "washington",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://cdn.photos.sparkplatform.com/stg/20181105190024575819000000-o.jpg"
+  },
+  {
+  "address": "1852 N Vantage Point Dr",
+  "city": "washington",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://ap.rdcpix.com/994707669/685393344fca7e83001db1a1cd60fa6cl-m1xd-w1020_h770_q80.jpg"
+  },
+  {
+  "address": "1406 W Silver Feather ",
+  "city": "washington",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://ap.rdcpix.com/7593811/500b77409e74f31d5ff685a9dde405a7l-m0xd-w1020_h770_q80.jpg"
+  },
+  {
+  "address": "3052 N Snow Canyon",
+  "city": "st-george",
+  "state": "utah",
+  "style": "Single-Family Home",
+  "on_market": false,
+  "image": "https://ap.rdcpix.com/369580584/36cca82965cd72d0da32b7467ca55cc2l-m1xd-w1020_h770_q80.jpg"
+  },
+  {
+  "address": "1849 E Cliff Point Dr",
+  "city": "st-george",
+  "state": "utah",
+  "style": "Single-Family Home",
+  "on_market": false,
+  "image": "https://photos.zillowstatic.com/cc_ft_1536/ISados73sim5q90000000000.webp"
+  },
+  {
+  "address": "1995 Cobalt Dr",
+  "city": "st-george",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://ap.rdcpix.com/198277322/92990931166a8ad99fb7120aa3d4b957l-m0xd-w1020_h770_q80.jpg"
+  },
+  {
+  "address": "4549 Painted Sky Dr",
+  "city": "st-george",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://pi.movoto.com/p/511/1480661_0_2QIUVZ_l.jpeg"
+  },
+  {
+  "address": "4523 Painted Sky Dr",
+  "city": "st-george",
+  "state": "utah",
+  "on_market": false,
+  "style": "Single-Family Home",
+  "image": "https://photos.zillowstatic.com/p_f/ISyr31c69x6cuc0000000000.jpg"
+  }
+  ]

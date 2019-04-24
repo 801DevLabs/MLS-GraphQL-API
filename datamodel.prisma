@@ -1,0 +1,14 @@
+type User {
+  id: ID! @unique
+  name: String!
+}
+
+type Listing {
+  id: ID! @unique
+  address: String
+  image: String
+  city: String
+  state: String
+  style: String
+  on_market: Boolean
+}
